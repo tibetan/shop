@@ -1,3 +1,5 @@
 /vendor/*
-#/composer*
-#/components/*
+/composer*
+!/composer.json
+/components/*
+/config/application.local.php
